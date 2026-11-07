@@ -31,4 +31,3 @@ This repository contains release information and application packages. It does n
 ---
 
 A project from Quanta Labs.
-Official signed Android releases for Quanta Share. Download the app and follow release updates.
